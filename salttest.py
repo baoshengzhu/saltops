@@ -23,3 +23,4 @@ rs = open('/home/kira/dev/github/saltops/doc/script/ls.sls', 'r')
 
 r = yaml.load(rs)
 print(r)
+#test
